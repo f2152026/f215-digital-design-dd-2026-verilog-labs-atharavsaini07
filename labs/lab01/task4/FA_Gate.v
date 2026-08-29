@@ -1,4 +1,4 @@
-// FA_Gate.v
+/// FA_Gate.v
 // (Carried forward from Task 2 -- paste in your completed, delay-annotated
 // version.)
 // Gate-level model of a 1-bit full adder, now with explicit gate delays.
